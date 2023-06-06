@@ -1,0 +1,14 @@
+C:\Users\lexa\source\repos\Perelygin\Perelygin\bin\Debug\netcoreapp3.1\Perelygin.exe
+C:\Users\lexa\source\repos\Perelygin\Perelygin\bin\Debug\netcoreapp3.1\Perelygin.deps.json
+C:\Users\lexa\source\repos\Perelygin\Perelygin\bin\Debug\netcoreapp3.1\Perelygin.runtimeconfig.json
+C:\Users\lexa\source\repos\Perelygin\Perelygin\bin\Debug\netcoreapp3.1\Perelygin.runtimeconfig.dev.json
+C:\Users\lexa\source\repos\Perelygin\Perelygin\bin\Debug\netcoreapp3.1\Perelygin.dll
+C:\Users\lexa\source\repos\Perelygin\Perelygin\bin\Debug\netcoreapp3.1\Perelygin.pdb
+C:\Users\lexa\source\repos\Perelygin\Perelygin\obj\Debug\netcoreapp3.1\Perelygin.csproj.AssemblyReference.cache
+C:\Users\lexa\source\repos\Perelygin\Perelygin\obj\Debug\netcoreapp3.1\Perelygin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lexa\source\repos\Perelygin\Perelygin\obj\Debug\netcoreapp3.1\Perelygin.AssemblyInfoInputs.cache
+C:\Users\lexa\source\repos\Perelygin\Perelygin\obj\Debug\netcoreapp3.1\Perelygin.AssemblyInfo.cs
+C:\Users\lexa\source\repos\Perelygin\Perelygin\obj\Debug\netcoreapp3.1\Perelygin.csproj.CoreCompileInputs.cache
+C:\Users\lexa\source\repos\Perelygin\Perelygin\obj\Debug\netcoreapp3.1\Perelygin.dll
+C:\Users\lexa\source\repos\Perelygin\Perelygin\obj\Debug\netcoreapp3.1\Perelygin.pdb
+C:\Users\lexa\source\repos\Perelygin\Perelygin\obj\Debug\netcoreapp3.1\Perelygin.genruntimeconfig.cache
